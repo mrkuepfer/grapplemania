@@ -1,0 +1,9 @@
+PLAYER CONTROLS
+
+a: move left
+d: move right
+space: jump
+click: grapple
+
+r: restart
+f: respawn at last checkpoint

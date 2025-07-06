@@ -1,0 +1,22 @@
+LEVEL EDITOR CONTROLS
+
+Left-click: place block
+Right-click: delete block
+
+1-6: Block type selection
+1: Wall (white)
+2: Start (green) (only one start block allowed)
+3: End (red)
+4: Booster (orange)
+5: Checkpoint (blue)
+6: Death (purple)
+
+a: Decrease block width
+s: Increase block width
+z: Decrease block height
+x: Increase block height
+
+Arrow keys: Move camera
+Shift: Hold to speed up movement and block size changes
+
+g: Toggle grid mode
